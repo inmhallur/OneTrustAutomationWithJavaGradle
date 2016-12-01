@@ -1,0 +1,7 @@
+set projectpath=D:\Automation\RPM
+
+set classpath=%projectpath%\bin;%projectpath%\Lib\*;D:\Automation\Installers\selenium-java-2.21.0.jar;D:\Automation\Installers\selenium-server-2.21.0.jar;D:\Automation\Installers\selenium-server-standalone-2.21.0.jar;D:\Automation\RPM\testng-5.5.jar;D:\Automation\Installers\log4j-1.2.17\*;D:\Automation\Installers\poi-bin-3.8-20120326\poi-3.8\*;D:\Automation\Installers\poi-bin-3.8-20120326\poi-3.8\lib\*;
+
+java org.testng.TestNG %projectpath%\rpmTests.xml
+
+set classpath=%projectpath%\bin;%projectpath%\Lib\*;D:\Automation\Installers\selenium-java-2.21.0.jar;D:\Automation\Installers\selenium-server-2.21.0.jar;D:\Automation\Installers\selenium-server-standalone-2.21.0.jar;D:\Automation\RPM\testng-5.5.jar;D:\Automation\Installers\log4j-1.2.17\*;D:\Automation\Installers\poi-bin-3.8-20120326\poi-3.8\*;D:\Automation\Installers\poi-bin-3.8-20120326\poi-3.8\lib\*;

@@ -1,0 +1,6 @@
+URL = http://10.99.68.67:8080/RPM/
+Browser=iexplore
+Username = admin
+Password = Password1234
+DefaultScenario=RPM7629
+DefaultscnVersion=v1

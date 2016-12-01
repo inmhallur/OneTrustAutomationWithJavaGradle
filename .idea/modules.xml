@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplebrowsers.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplebrowsers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplebrowsers_main.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplebrowsers_main.iml" group="multiplebrowsers" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiplebrowsers_test.iml" filepath="$PROJECT_DIR$/.idea/modules/multiplebrowsers_test.iml" group="multiplebrowsers" />
+    </modules>
+  </component>
+</project>

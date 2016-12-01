@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/QA/!svn/ver/3773/trunk/Test_Management/Test_Automation/Scripts/webdriver_java_testng_scripts/Automation/RPM/config
+END
+rpmenv.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/QA/!svn/ver/3773/trunk/Test_Management/Test_Automation/Scripts/webdriver_java_testng_scripts/Automation/RPM/config/rpmenv.properties
+END
+NewFile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/QA/!svn/ver/3773/trunk/Test_Management/Test_Automation/Scripts/webdriver_java_testng_scripts/Automation/RPM/config/NewFile.txt
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/QA/!svn/ver/3773/trunk/Test_Management/Test_Automation/Scripts/webdriver_java_testng_scripts/Automation/RPM/config/log4j.properties
+END
+environmentvariables.txt
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/QA/!svn/ver/3773/trunk/Test_Management/Test_Automation/Scripts/webdriver_java_testng_scripts/Automation/RPM/config/environmentvariables.txt
+END
+license.txt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/QA/!svn/ver/3773/trunk/Test_Management/Test_Automation/Scripts/webdriver_java_testng_scripts/Automation/RPM/config/license.txt.txt
+END
